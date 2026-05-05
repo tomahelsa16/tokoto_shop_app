@@ -3,7 +3,6 @@ import 'package:shop_app/screens/details/details_screen.dart';
 import '../../../components/product_card.dart';
 import '../../../models/Product.dart';
 import '../../../services/api_service.dart';
-import '../details/details_screen.dart'; 
 
 class ProductsScreen extends StatelessWidget {
   const ProductsScreen({super.key});

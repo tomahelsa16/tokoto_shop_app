@@ -1,4 +1,3 @@
-import 'Product.dart';
 
 class Cart {
   final String name;
